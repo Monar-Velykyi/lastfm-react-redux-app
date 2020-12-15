@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# API
+
+To run the app you need to get an API key from last.fm and put it in action.js (const API_KEY)
+
 ## Available Scripts
 
 In the project directory, you can run:
